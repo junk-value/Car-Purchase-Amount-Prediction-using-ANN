@@ -1,10 +1,10 @@
 # Car-Purchase-Amount-Prediction-using-ANN
 
-# Overview
+Overview
 
 This project implements a Car Price Prediction Model using an Artificial Neural Network (ANN) in a Jupyter Notebook. The model predicts car prices based on demographic and financial features such as Gender, Age, Net Worth, Credit Card Debt, and Annual Salary. The project demonstrates the use of deep learning for regression tasks and emphasizes the importance of feature engineering and neural network design in predictive modeling.
 
-# Features
+Features
 
 The model uses the following features to predict car prices:
 
